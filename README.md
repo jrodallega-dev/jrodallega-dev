@@ -1,4 +1,4 @@
-Hi 👋 I'm Jose Rodallega
+# Hi 👋 I'm Jose Rodallega
 
 💻 Software Development Student  
 📚 Currently learning Java and programming fundamentals  
