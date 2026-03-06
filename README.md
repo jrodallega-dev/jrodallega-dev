@@ -1,4 +1,36 @@
-## Hi there 👋
+Hi 👋 I'm Jose Rodallega
+
+💻 Software Development Student  
+📚 Currently learning Java and programming fundamentals  
+🚀 Future Developer FullStack  
+
+---
+
+## 🧠 Currently Learning
+
+- Java
+- Programming Fundamentals
+- Git & GitHub
+- Databases (coming soon)
+
+---
+
+## 💻 Projects
+
+
+
+---
+
+## 📚 Education
+
+🎓 Software Development  
+Politécnico Minuto de Dios
+
+---
+
+## 📫 Contact
+
+Email: jrodallega.dev@gmail.com
 
 <!--
 **jrodallega-dev/jrodallega-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
