@@ -34,6 +34,7 @@ Smart academia de idiomas
 
 ## 📫 Contact
 LinkedIn: https://www.linkedin.com/in/jose-rodallega-manzano-4805923b5/
+
 Email: jrodallega.dev@gmail.com
 
 <!--
