@@ -8,7 +8,7 @@
 
 ## 🧠 Currently Learning
 
-- Java
+- Java/POO
 - Programming Fundamentals
 - Git & GitHub
 - Databases (coming soon)
